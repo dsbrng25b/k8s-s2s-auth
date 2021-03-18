@@ -1,2 +1,1 @@
-# k8s-s2s-auth
-Kubernetes Service-to-Service Authentication using Service Accounts 
+Moved to https://github.com/dvob/k8s-s2s-auth
